@@ -12,12 +12,12 @@ The portfolio website features several data analysis projects that demonstrate m
 
 Project 1: Machine Learning: Student's Grade Prediction: utilizes a dataset of student information to train a model using supervised learning techniques to predict a student's grade based on factors such as study time, family background, and test preparation, with the goal of providing insight into how different factors influence academic performance and potentially assist educators in identifying at-risk students.
 
-Project 2: Viz: Covid Map Visualization by Tableau: data visualization project that uses the Tableau software to create an interactive map that displays the spread of COVID-19 and its impact on different regions and countries.
+Project 2: Viz: Covid Map Visualization by Tableau: data visualization project that uses Tableau software to create an interactive map that displays the spread of COVID-19 and its impact on different regions and countries.
 
-Project 3: Statistics: AB Testing with Python: implement and analyze the results of A/B testing in order to determine the effectiveness of changes made to a website or product.
+Project 3: Statistics: AB Testing with Python: implement and analyze the results of A/B testing to determine the effectiveness of changes made to a website or product.
 
 ## Contact Me
-If you have any questions or would like to discuss any of the projects featured on this website, please feel free to contact me via the email provided in the website.
+If you have any questions or would like to discuss any of the projects featured on this website, please feel free to contact me via the email provided on the website.
 
 ## Conclusion
 I hope you find this portfolio website informative and it gives you an understanding of my skills and experience in data analysis. Thank you for visiting!
