@@ -1625,7 +1625,7 @@ input, select, textarea {
 	.image {
 		display: inline-block;
 		position: relative;
-	}
+	}	
 
 		.image img {
 			display: block;
@@ -1804,7 +1804,7 @@ input, select, textarea {
 					-webkit-transition: background-color .2s ease-in-out;
 					-ms-transition: background-color .2s ease-in-out;
 					transition: background-color .2s ease-in-out;
-					background-color: #444;
+					background-color: #666666;
 					border-radius: 6px;
 					box-shadow: inset 0px 0px 0px 1px #282828, inset 0px 2px 1px 0px rgba(255, 255, 255, 0.1);
 					color: #2E2E2E !important;
@@ -1974,7 +1974,7 @@ input, select, textarea {
 		}
 
 		.icon.featured {
-			color: #EA8A95;
+			color: #bcbcbc;
 			display: block;
 			margin: 0 0 1.5em 0;
 			cursor: default;
